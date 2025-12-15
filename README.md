@@ -10,6 +10,13 @@ The focus is on **end-to-end analytics**:
 
 ---
 
+## ANALYSIS 
+
+https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/5136e83f48c29450b8106f7260f9926e/9c58bcc5-f63c-4734-9694-0fc1e245ef67/index.html
+
+---
+
+
 ## 🏗️ Schema Design  
 Star Schema with Fact + Dimension tables:  
 
