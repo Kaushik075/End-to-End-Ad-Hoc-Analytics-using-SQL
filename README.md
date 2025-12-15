@@ -69,12 +69,4 @@ Star Schema with Fact + Dimension tables:
 <img width="1860" height="2752" alt="Image" src="https://github.com/user-attachments/assets/ca055491-e9b9-4c35-8178-5d64aa0bd823" />
 <img width="1792" height="1990" alt="Image" src="https://github.com/user-attachments/assets/591d5b84-46ca-4043-af0c-df0fc3b28e1b" />
 
----
-# Queries
 
-<img width="2048" height="2262" alt="Image" src="https://github.com/user-attachments/assets/f1ad6ee2-dd16-46c2-976e-c42eda2b9f64" />
-<img width="2048" height="3546" alt="Image" src="https://github.com/user-attachments/assets/76fd9252-2300-40da-a203-5cd40e915f14" />
-<img width="1904" height="2264" alt="Image" src="https://github.com/user-attachments/assets/08048b31-87dd-40c0-954d-3073debc2cf3" />
-<img width="2048" height="2424" alt="Image" src="https://github.com/user-attachments/assets/ff15dde4-2b9a-4a8a-ab3f-9143a819de8a" />
-<img width="2048" height="3586" alt="Image" src="https://github.com/user-attachments/assets/e1e05489-57a3-488e-870e-6d354a86ba53" />
-<img width="2048" height="3826" alt="Image" src="https://github.com/user-attachments/assets/9d61b435-81fc-4b10-b744-5101343c82af" />
